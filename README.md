@@ -1,3 +1,3 @@
 # Quant-Trading-Strategy
 
-#### An straight-forward trading strategy in chinese future market.
+#### A straight-forward trading strategy in chinese future market.
